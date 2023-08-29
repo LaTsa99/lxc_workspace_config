@@ -1,0 +1,19 @@
+set nocompatible
+filetype on
+filetype plugin on
+filetype indent on
+syntax on
+set number
+set relativenumber
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set scrolloff=10
+set nowrap
+set incsearch
+set ignorecase
+set smartcase
+set showmode
+set showmatch
+set hlsearch
+
